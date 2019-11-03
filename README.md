@@ -18,3 +18,11 @@ You will see in your terminal the maze and the maze resolved with astar algorith
 
 - [Astar](https://en.wikipedia.org/wiki/A*_search_algorithm)
 - [Maze algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
+
+## Examples
+
+You can find examples of resolved mazes with this program in the path :
+
+```
+./example_labs
+```
